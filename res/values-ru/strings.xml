@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Банкоматы (ATMs)</string>
+    <string name="label_add">ATM</string>
+    <string name="btn_sub">Принять</string>
+    <string name="btn_close">Закрыть</string>
+    <string name="edit_serial">Серийник</string>
+    <string name="edit_host">Хост</string>
+    <string name="edit_address">Адрес</string>
+    <string name="edit_model">Модель</string>
+    <string name="edit_manufacturer">Производитель</string>
+    <string name="edit_company">Компания</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="date_install">Дата</string>
+    <string name="btn_clear">Очистить</string>
+    <string name="btn_add">Добавить</string>
+    <string name="date_piker">Выбор даты</string>
+    <string name="menu_add">Добавить банкомат</string>
+    <string name="menu_choose_all">Выбрать все банкоматы</string>
+    <string name="menu_choose_atms">Выбрать банкоматы</string>
+    <string name="menu_cancel">Отменить выделение</string>
+    <string name="menu_del_chooses">Удалить выбраное</string>
+    <string name="btn_map">Карта</string>
+    <string name="date_format">00.00.0000 00:00</string>
+    <string name="edit_note">Текст заметки</string>
+    <string name="dialog_title">Заметка</string>
+    <string name="err_delete">Ошибка удаления</string>
+    <string name="err_update">Ошибка обновления</string>
+    <string name="err_insert">Ошибка добавления</string>
+    <string name="del_note">Удалить заметку</string>
+</resources>

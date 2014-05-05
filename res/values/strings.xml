@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Automated Teller Machines(ATMs)</string>
+    <string name="label_add">ATM</string>
+    <string name="btn_sub">Submit</string>
+    <string name="btn_close">Close</string>
+    <string name="edit_serial">Serial</string>
+    <string name="edit_host">Host</string>
+    <string name="edit_address">Address</string>
+    <string name="edit_model">Model</string>
+    <string name="edit_manufacturer">Manufacturer</string>
+    <string name="edit_company">Company</string>
+    <string name="add_note">Add note</string>
+    <string name="date_install">Date</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_add">Add</string>
+    <string name="date_piker">Date picker</string>
+    <string name="menu_add">Add ATM</string>
+    <string name="menu_choose_all">Choose all ATMs</string>
+    <string name="menu_choose_atms">Choose ATMs</string>
+    <string name="menu_cancel">Cancel choose</string>
+    <string name="menu_del_chooses">Delete chooses</string>
+    <string name="btn_map">Map</string>
+    <string name="date_format">00/00/0000 00:00</string>
+    <string name="edit_note">Text note</string>
+    <string name="dialog_title">Note</string>
+    <string name="err_delete">Error removing</string>
+    <string name="err_update">Error updating</string>
+    <string name="err_insert">Error inserting</string>
+    <string name="del_note">Delete note</string>
+</resources>
